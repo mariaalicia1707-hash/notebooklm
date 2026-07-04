@@ -1,89 +1,115 @@
-# 📚 Caderno Temático - NotebookLM para Estudos em Tecnologia da Informação
+# Caderno Temático - NotebookLM para Estudos em Tecnologia da Informação
 
-> Projeto desenvolvido como parte de um caderno temático utilizando o NotebookLM para explorar como a Inteligência Artificial pode auxiliar estudantes que desejam ingressar na área de Tecnologia da Informação (TI) e conquistar oportunidades de trabalho remoto.
+> Projeto desenvolvido como parte de um caderno temático utilizando o NotebookLM para explorar como a Inteligência Artificial pode auxiliar estudantes que desejam ingressar na área de Tecnologia da Informação (TI) e conquistar oportunidades de trabalho remoto, agindo como um orientador educacional ou conselheiro.
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
-Este projeto teve como objetivo estudar o potencial do NotebookLM como ferramenta de apoio aos estudos, utilizando documentos e fontes confiáveis para construir um material organizado sobre a área de Tecnologia da Informação.
+Este projeto teve como objetivo criar um NotebookLM voltado paara ajudar aqueles que querem ingressar na área de TI, por meio de certificações gratuitas e posteriormente ir em busca de um emprego remoto utilizando documentos e fontes confiáveis para construir um material organizado sobre a área de Tecnologia da Informação.
 
 Ao final do estudo, busquei:
 
-- compreender o funcionamento do NotebookLM;
-- aprender técnicas para elaborar melhores prompts;
-- organizar informações importantes sobre carreiras em TI;
-- produzir um material de consulta para futuras revisões.
-
+- Mapear Carreiras de Elite: Focar em especializações de alta demanda para 2026, como Inteligência Artificial, Ciência de Dados, Cibersegurança e Cloud Computing
+- Certificações Gratuitas de Peso: Priorizar formações sem custo em plataformas oficiais (Google, Microsoft, Oracle e Bradesco) que validem competências técnicas no currículo
+- Conquista do Mercado Externo: Aplicar estratégias de LinkedIn e currículo internacional para atrair recrutadores estrangeiros e receber em moeda valorizada (dólar/euro)
+- Primeiro Emprego Remoto: Identificar portas de entrada acessíveis mesmo sem experiência prévia, como suporte técnico, vendas (SDR) e áreas administrativas
 ---
 
-# 📖 Tema do estudo
-
-**Como o NotebookLM pode auxiliar pessoas que desejam iniciar uma carreira em Tecnologia da Informação e buscar oportunidades de trabalho remoto.**
-
----
-
-# 📚 Curadoria de Fontes
+# Curadoria de Fontes
 
 As seguintes fontes foram utilizadas durante os estudos:
 
 | Fonte | Link |
 |-------|------|
-| Fonte 1 | Cole o link aqui |
-| Fonte 2 | Cole o link aqui |
-| Fonte 3 | Cole o link aqui |
-
-Caso tenha utilizado PDFs, eles podem ser encontrados na pasta `fontes/`.
+| Fonte 1 | https://secti.df.gov.br/11-sites-que-oferecem-cursos-on-line-gratuitos-para-aumentar-suas-habilidades-em-tecnologia |
+| Fonte 2 | https://www.youtube.com/watch?v=vkFNqsrjY2E |
+| Fonte 3 | https://www.youtube.com/watch?v=tKA0zl6-A8c |
 
 ---
 
-# 🤖 Engenharia de Prompts
+# Engenharia de Prompts
 
 Durante o estudo foram realizados diversos testes para entender como pequenas alterações nos prompts influenciam na qualidade das respostas.
 
 ## Prompt 1
 
-> Explique o que é o NotebookLM para uma pessoa iniciante.
+> Como usar o LinkedIn para atrair recrutadores estrangeiros?
 
 ### Resultado
 
-Foi apresentada uma visão geral da ferramenta e suas principais funcionalidades.
+Estratégias para o Mercado (Remoto e Internacional)
+- LinkedIn Estratégico: Deve ser bilíngue, otimizado com palavras-chave da sua "stack" e usado para "treinar o algoritmo" através de interações em nichos específicos
+- Trabalho para o Exterior: Uma forma eficiente de ganhar em dólar ou euro é através de empresas de outsourcing focadas na América Latina, como Strider, Ambush e BairesDev, que fazem a ponte com clientes estrangeiros
+- Primeiro Emprego: Vagas de suporte técnico, atendimento ao cliente e SDR (representante de vendas) são as portas de entrada mais acessíveis para quem não tem experiência prévia em home office
 
 ---
 
 ## Prompt 2
 
-> Como o NotebookLM pode ajudar estudantes da área de Tecnologia da Informação?
+> Cargos na área de TI prováveis a se extinguir em um futuro próximo?
 
 ### Resultado
 
-A resposta trouxe exemplos de organização de conteúdos, criação de resumos e revisão de documentos.
-
+Abaixo estão os cargos e perfis da área de tecnologia (e correlatos) citados como prováveis a deixar de existir ou se tornarem obsoletos:
+Cargos Técnicos Específicos em Risco
+As fontes listam funções que podem ser realizadas com mais eficiência por máquinas:
+* Digitadores de dados: Funções de entrada de dados manual estão sendo substituídas por sistemas automatizados
+* Cargos básicos de suporte em TI: O suporte de nível 1, focado em resoluções simples e repetitivas, tende a ser automatizado por IAs
+* Designers gráficos: A criação visual básica está sendo impactada por ferramentas de IA generativa
+* Operadores de telemarketing: Frequentemente ligados à infraestrutura de tecnologia e atendimento, estão no topo da lista de automação
 ---
 
 ## Prompt 3
 
-> Monte um plano de estudos para quem deseja trabalhar remotamente como desenvolvedor.
+> Monte um plano de estudos com cursos gratuitos pra quem que quer seguir na area de analista de qualidade
 
 ### Resultado
 
-Foi criado um roteiro de estudos dividido por etapas.
+Fase 1: Fundamentos e Lógica (A Base)
+Antes de testar sistemas, você precisa entender como eles são construídos e como organizar os dados dos defeitos (bugs) encontrados.
+*Lógica de Programação e Pensamento Computacional: Essencial para entender o fluxo do software e criar casos de teste.
+ Onde fazer: Oracle Next Education (ONE)
+ ou Bootcamp Blip (DIO)
+*Excel e Pacote Office: Fundamental para o controle de métricas, relatórios de bugs e organização de cronogramas.
+ Onde fazer: Fundação Bradesco
+ 
+Fase 2: Linguagens para Automação
+O Analista de Qualidade moderno precisa saber automatizar testes para ganhar escala. As fontes destacam linguagens essenciais:
+*Python: É a "queridinha" para automação de tarefas e scripts de teste
+ Onde fazer: IFRS (Instituto Federal do RS) ou Oracle ONE
+*Java ou JavaScript: Muito utilizados em frameworks de teste como Selenium ou Cypress.
+ Onde fazer: Bootcamp CI&T (Java) ou Blip (JavaScript) na plataforma DIO
 
----
+Fase 3: Infraestrutura e Versionamento
+Um QA precisa saber onde o código "mora" e como os sistemas se comunicam.
+Git e GitHub: Necessário para acessar o código dos desenvolvedores e inserir seus próprios testes automatizados no repositório
+*Suporte em TI e Redes: Entender como os bits e bytes circulam ajuda a identificar falhas de conexão e performance
+ Onde fazer: Google + CIEE ou Escola Virtual Gov (Certificado de Suporte de TI do Google)
 
-# ⚠️ Dificuldades encontradas
+Fase 4: Especialização em Qualidade e Segurança
+Qualidade também envolve garantir que o sistema não seja vulnerável.
+*Cibersegurança: O Analista de Qualidade focado em segurança busca vulnerabilidades antes que o produto vá ao ar
+ Onde fazer: Programa Hackers do Bem (níveis Nivelamento e Básico)
+*IA Aplicada aos Testes: Aprender a usar ferramentas que geram testes unitários e documentação automaticamente.
+ Onde fazer: Bootcamp GitHub Copilot
+
+
+# Dificuldades encontradas
 
 Durante o processo observei alguns desafios:
 
 - respostas muito amplas quando os prompts eram genéricos;
 - necessidade de fornecer mais contexto para obter respostas específicas;
+- ao perguntar algo remotamente diferente das fontes fornecidas, a resposta não era a esperada;
+- necessidade de sempre precisar fornecer mais fontes:
 - refinamento dos prompts para gerar exemplos mais úteis.
 
 Essas dificuldades ajudaram a compreender a importância da Engenharia de Prompts para obter respostas de maior qualidade.
 
 ---
 
-# 📝 Miniguia de Estudos
+# Miniguia de Estudos
 
 ## Resumo
 

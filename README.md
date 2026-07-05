@@ -47,7 +47,7 @@ Estratégias para o Mercado (Remoto e Internacional)
 
 ## Prompt 2
 
-> Cargos na área de TI prováveis a se extinguir em um futuro próximo?
+> Cargos na área de TI prováveis a se extinguir em um futuro próximo:
 
 ### Resultado
 
@@ -68,30 +68,30 @@ As fontes listam funções que podem ser realizadas com mais eficiência por má
 
 Fase 1: Fundamentos e Lógica (A Base)
 Antes de testar sistemas, você precisa entender como eles são construídos e como organizar os dados dos defeitos (bugs) encontrados.
-*Lógica de Programação e Pensamento Computacional: Essencial para entender o fluxo do software e criar casos de teste.
+Lógica de Programação e Pensamento Computacional: Essencial para entender o fluxo do software e criar casos de teste.
  Onde fazer: Oracle Next Education (ONE)
  ou Bootcamp Blip (DIO)
-*Excel e Pacote Office: Fundamental para o controle de métricas, relatórios de bugs e organização de cronogramas.
+Excel e Pacote Office: Fundamental para o controle de métricas, relatórios de bugs e organização de cronogramas.
  Onde fazer: Fundação Bradesco
  
 Fase 2: Linguagens para Automação
 O Analista de Qualidade moderno precisa saber automatizar testes para ganhar escala. As fontes destacam linguagens essenciais:
-*Python: É a "queridinha" para automação de tarefas e scripts de teste
+Python: É a "queridinha" para automação de tarefas e scripts de teste
  Onde fazer: IFRS (Instituto Federal do RS) ou Oracle ONE
-*Java ou JavaScript: Muito utilizados em frameworks de teste como Selenium ou Cypress.
+Java ou JavaScript: Muito utilizados em frameworks de teste como Selenium ou Cypress.
  Onde fazer: Bootcamp CI&T (Java) ou Blip (JavaScript) na plataforma DIO
 
 Fase 3: Infraestrutura e Versionamento
 Um QA precisa saber onde o código "mora" e como os sistemas se comunicam.
 Git e GitHub: Necessário para acessar o código dos desenvolvedores e inserir seus próprios testes automatizados no repositório
-*Suporte em TI e Redes: Entender como os bits e bytes circulam ajuda a identificar falhas de conexão e performance
+Suporte em TI e Redes: Entender como os bits e bytes circulam ajuda a identificar falhas de conexão e performance
  Onde fazer: Google + CIEE ou Escola Virtual Gov (Certificado de Suporte de TI do Google)
 
 Fase 4: Especialização em Qualidade e Segurança
 Qualidade também envolve garantir que o sistema não seja vulnerável.
-*Cibersegurança: O Analista de Qualidade focado em segurança busca vulnerabilidades antes que o produto vá ao ar
+Cibersegurança: O Analista de Qualidade focado em segurança busca vulnerabilidades antes que o produto vá ao ar
  Onde fazer: Programa Hackers do Bem (níveis Nivelamento e Básico)
-*IA Aplicada aos Testes: Aprender a usar ferramentas que geram testes unitários e documentação automaticamente.
+IA Aplicada aos Testes: Aprender a usar ferramentas que geram testes unitários e documentação automaticamente.
  Onde fazer: Bootcamp GitHub Copilot
 
 
@@ -99,11 +99,11 @@ Qualidade também envolve garantir que o sistema não seja vulnerável.
 
 Durante o processo observei alguns desafios:
 
-- respostas muito amplas quando os prompts eram genéricos;
-- necessidade de fornecer mais contexto para obter respostas específicas;
-- ao perguntar algo remotamente diferente das fontes fornecidas, a resposta não era a esperada;
-- necessidade de sempre precisar fornecer mais fontes:
-- refinamento dos prompts para gerar exemplos mais úteis.
+- Respostas muito amplas quando os prompts eram genéricos;
+- Necessidade de fornecer mais contexto para obter respostas específicas;
+- Ao perguntar algo remotamente diferente das fontes fornecidas, a resposta não era a esperada;
+- Necessidade de sempre precisar fornecer mais fontes:
+- Refinamento dos prompts para gerar exemplos mais úteis.
 
 Essas dificuldades ajudaram a compreender a importância da Engenharia de Prompts para obter respostas de maior qualidade.
 

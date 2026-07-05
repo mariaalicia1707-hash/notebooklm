@@ -1,10 +1,10 @@
-# Caderno Temático - NotebookLM para Estudos em Tecnologia da Informação
+# 📚 Caderno Temático - NotebookLM para Estudos em Tecnologia da Informação
 
 > Projeto desenvolvido como parte de um caderno temático utilizando o NotebookLM para explorar como a Inteligência Artificial pode auxiliar estudantes que desejam ingressar na área de Tecnologia da Informação (TI) e conquistar oportunidades de trabalho remoto, agindo como um orientador educacional ou conselheiro.
 
 ---
 
-# Objetivos
+# 🎯 Objetivos
 
 Este projeto teve como objetivo criar um NotebookLM voltado paara ajudar aqueles que querem ingressar na área de TI, por meio de certificações gratuitas e posteriormente ir em busca de um emprego remoto utilizando documentos e fontes confiáveis para construir um material organizado sobre a área de Tecnologia da Informação.
 
@@ -16,7 +16,7 @@ Ao final do estudo, busquei:
 - Primeiro Emprego Remoto: Identificar portas de entrada acessíveis mesmo sem experiência prévia, como suporte técnico, vendas (SDR) e áreas administrativas
 ---
 
-# Curadoria de Fontes
+# 📚 Curadoria de Fontes
 
 As seguintes fontes foram utilizadas durante os estudos:
 
@@ -28,7 +28,7 @@ As seguintes fontes foram utilizadas durante os estudos:
 
 ---
 
-# Engenharia de Prompts
+# 🤖 Engenharia de Prompts
 
 Durante o estudo foram realizados diversos testes para entender como pequenas alterações nos prompts influenciam na qualidade das respostas.
 
@@ -95,7 +95,7 @@ Qualidade também envolve garantir que o sistema não seja vulnerável.
  Onde fazer: Bootcamp GitHub Copilot
 
 
-# Dificuldades encontradas
+# ⚠️ Dificuldades encontradas
 
 Durante o processo observei alguns desafios:
 
@@ -109,71 +109,141 @@ Essas dificuldades ajudaram a compreender a importância da Engenharia de Prompt
 
 ---
 
-# Miniguia de Estudos
+# 📝 Miniguia de Estudos
 
 ## Resumo
 
-O NotebookLM é uma ferramenta baseada em Inteligência Artificial desenvolvida para auxiliar na organização de conhecimentos a partir de documentos fornecidos pelo usuário.
+1. Cursos gratuitos para iniciar na TI
 
-Entre suas principais vantagens estão:
+Existem diversas plataformas que oferecem cursos gratuitos e de qualidade para quem deseja ingressar na área de Tecnologia da Informação. Entre os principais temas estão desenvolvimento web, programação, computação em nuvem, inteligência artificial, análise de dados e cibersegurança. Esses cursos permitem adquirir conhecimentos fundamentais sem custos e são uma excelente porta de entrada para a carreira.
 
-- criação de resumos;
-- organização de informações;
-- geração de perguntas;
-- auxílio na revisão de conteúdos;
-- apoio na aprendizagem.
+2. Melhores áreas para trabalho remoto
 
+As áreas com maior oferta de vagas em home office incluem:
+
+Desenvolvimento Front-end;
+Desenvolvimento Back-end;
+Desenvolvimento Full Stack;
+Análise de Dados;
+Ciência de Dados;
+Cloud Computing;
+Cibersegurança;
+Quality Assurance (QA);
+Suporte Técnico.
+
+Essas profissões possuem alta demanda e oferecem boas oportunidades de crescimento profissional.
+
+3. Como conseguir vagas internacionais
+
+Para trabalhar remotamente em empresas do exterior é importante desenvolver algumas competências:
+
+Inglês em nível intermediário ou avançado;
+Portfólio com projetos no GitHub;
+Perfil atualizado no LinkedIn;
+Conhecimento das tecnologias exigidas pelo mercado;
+Participação em projetos práticos para ganhar experiência.
+4. Principais aprendizados
+É possível iniciar uma carreira em TI utilizando apenas recursos gratuitos.
+A prática é tão importante quanto os cursos.
+O GitHub funciona como um portfólio profissional.
+O inglês amplia as oportunidades de trabalho remoto internacional.
+A aprendizagem contínua é essencial para acompanhar a evolução da tecnologia.
 ---
 
 # 📖 Glossário
 
 | Termo | Significado |
 |--------|-------------|
-| NotebookLM | Ferramenta de IA utilizada para estudar documentos. |
-| Prompt | Instrução enviada para uma Inteligência Artificial. |
-| IA Generativa | Inteligência Artificial capaz de gerar novos conteúdos. |
-| Curadoria | Processo de selecionar fontes confiáveis para estudo. |
+|Home Office| Modalidade de trabalho realizada de forma remota. |
+| GitHub | Plataforma utilizada para armazenar projetos e criar um portfólio profissional. |
+| Portfólio | Conjunto de projetos que demonstra as habilidades de um profissional. |
+| Front-end | Desenvolvimento da interface visual de sites e aplicações. |
+| Back-end | Desenvolvimento da lógica, banco de dados e servidores de uma aplicação. |
+| Full Stack | Profissional que atua tanto no Front-end quanto no Back-end. |
+| Cloud Computing | Serviços de computação oferecidos pela internet. |
+| QA (Quality Assurance) | Área responsável por garantir a qualidade dos softwares. |
+| Prompt | Instrução fornecida para uma Inteligência Artificial gerar uma resposta. |
+| NotebookLM | Ferramenta de IA do Google utilizada para organizar documentos, gerar resumos e auxiliar nos estudos. |
+
 
 ---
+# 💡 Prompts Reutilizáveis
 
-# 💡 Prompts reutilizáveis
+Os prompts abaixo podem ser utilizados para estudar qualquer tema relacionado à Tecnologia da Informação, facilitando revisões, aprofundamento do conteúdo e preparação para entrevistas.
 
-Estes prompts poderão ser utilizados em estudos futuros:
+### Compreensão inicial
 
-```
-Explique este conteúdo para um iniciante.
-```
-
-```
-Faça um resumo em tópicos.
-```
-
-```
-Crie um glossário com os principais conceitos.
-```
-
-```
-Monte um plano de estudos sobre este tema.
-```
-
-```
-Elabore 10 perguntas para revisão.
-```
-
-```
-Explique utilizando exemplos práticos.
+```text
+Explique este tema como se eu fosse um iniciante na área de Tecnologia da Informação. Utilize uma linguagem simples e apresente exemplos práticos.
 ```
 
 ---
 
-# 🚀 Aprendizados
+### Fixação do aprendizado
 
-Durante este projeto foi possível aprender:
+```text
+Elabore 10 perguntas de revisão com suas respectivas respostas para ajudar na fixação deste conteúdo.
+```
 
-- como utilizar o NotebookLM para organizar estudos;
-- como construir prompts mais eficientes;
-- como transformar respostas da IA em um material de revisão;
-- como estruturar um repositório no GitHub utilizando um README bem organizado.
+---
+
+### Aplicação no mercado
+
+```text
+Explique como este conhecimento é aplicado no mercado de trabalho e quais profissionais utilizam essas tecnologias no dia a dia.
+```
+
+---
+
+### Plano de estudos
+
+```text
+Monte um plano de estudos de 30 dias para aprender este assunto, considerando uma rotina de estudos de 1 a 2 horas por dia.
+```
+
+---
+
+### Desenvolvimento de projetos
+
+```text
+Sugira projetos práticos que permitam aplicar os conhecimentos adquiridos neste conteúdo e que possam ser adicionados ao portfólio no GitHub.
+```
+
+---
+
+### Preparação para entrevistas
+
+```text
+Quais perguntas sobre este assunto costumam aparecer em entrevistas para vagas de Tecnologia da Informação? Apresente também exemplos de respostas.
+```
+
+---
+
+### Mercado internacional
+
+```text
+Quais conhecimentos deste tema são mais valorizados por empresas estrangeiras que contratam profissionais para trabalho remoto?
+```
+
+---
+
+### Próximos passos
+
+```text
+Após concluir este conteúdo, quais assuntos devo estudar em seguida para continuar evoluindo na área de Tecnologia da Informação?
+```
+
+# 🎓 Aprendizados
+
+Ao longo deste estudo, foi possível concluir que:
+
+- **Existem diversas oportunidades gratuitas de aprendizado**, permitindo que qualquer pessoa desenvolva conhecimentos em Tecnologia da Informação sem precisar investir inicialmente em cursos pagos.
+
+- **As vagas de trabalho remoto estão em crescimento**, principalmente nas áreas de Desenvolvimento Web, Ciência de Dados, Cloud Computing, Cibersegurança e Quality Assurance (QA).
+
+- **Trabalhar para empresas internacionais é uma possibilidade real**, desde que o profissional desenvolva competências técnicas, mantenha um portfólio atualizado e possua um bom nível de inglês.
+
+- **O aprendizado contínuo e a prática são diferenciais importantes**, tornando a construção de projetos, o uso do GitHub e a atualização constante fatores essenciais para o crescimento profissional na área de TI.
 
 ---
 

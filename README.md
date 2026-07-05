@@ -142,6 +142,7 @@ Portfólio com projetos no GitHub;
 Perfil atualizado no LinkedIn;
 Conhecimento das tecnologias exigidas pelo mercado;
 Participação em projetos práticos para ganhar experiência.
+
 4. Principais aprendizados
 É possível iniciar uma carreira em TI utilizando apenas recursos gratuitos.
 A prática é tão importante quanto os cursos.
